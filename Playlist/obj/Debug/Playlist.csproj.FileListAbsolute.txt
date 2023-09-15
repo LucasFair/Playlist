@@ -1,0 +1,7 @@
+C:\Users\Fair\Documents\Hovedforløb\H1\OOP\Playlist\bin\Debug\Playlist.exe.config
+C:\Users\Fair\Documents\Hovedforløb\H1\OOP\Playlist\bin\Debug\Playlist.exe
+C:\Users\Fair\Documents\Hovedforløb\H1\OOP\Playlist\bin\Debug\Playlist.pdb
+C:\Users\Fair\Documents\Hovedforløb\H1\OOP\Playlist\obj\Debug\Playlist.csproj.AssemblyReference.cache
+C:\Users\Fair\Documents\Hovedforløb\H1\OOP\Playlist\obj\Debug\Playlist.csproj.CoreCompileInputs.cache
+C:\Users\Fair\Documents\Hovedforløb\H1\OOP\Playlist\obj\Debug\Playlist.exe
+C:\Users\Fair\Documents\Hovedforløb\H1\OOP\Playlist\obj\Debug\Playlist.pdb
