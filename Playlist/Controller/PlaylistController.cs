@@ -16,13 +16,15 @@ namespace Playlist.Controller
 
 		public void Run()
 		{
-			/*
+			//pList.SongList();
+
+			
 			pList.TestList();
 			WaitForInput();
 			Environment.Exit(0); 
-			*/
+			
 
-			pList.SongList();
+
 
 			GUI.Welcome();
 			GUI.AnyKeyToContinue();

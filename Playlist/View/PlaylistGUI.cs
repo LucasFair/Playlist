@@ -87,7 +87,7 @@ namespace Playlist.View
 				Console.WriteLine($"ID = {playlists.Id} | Name = {playlists.Name}");
 			}
 		}
-		public void TestPrintListContent(List<cTrack> Tracklist)  // This prints the audio tracks
+		public void TestPrintListContent(LinkedList<cTrack> Tracklist)  // This prints the audio tracks
 		{
 			foreach (cTrack tracks in Tracklist)
 			{
