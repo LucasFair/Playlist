@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace Playlist.Model
 {
+	/// <summary>
+	/// Class <c>cPlaylist</c> is the template for the playlist, containing properties for it and scaffolding.
+	/// </summary>
 	public class cPlaylist
 	{
 		private byte _id;  // Using a byte since it's for this project, however for a real use case
@@ -39,9 +42,11 @@ namespace Playlist.Model
 			_name = name;
 		}
 
+		/*
 		public override string ToString()
 		{
 			return string.Format("{1}", Id, Name);
 		}
+		*/
 	}
 }
